@@ -1,5 +1,5 @@
 "use strict";
-console.log("main_2.js");
+// console.log("main_2.js");
 
 function numLoader() {
     return new Promise((resolve, reject) => {
